@@ -1,0 +1,2 @@
+CNN = LeNet style (explain why it is efficient)
+SGD vs ADAM? Nesterov? LRSchedule? Momentum?
